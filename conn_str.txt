@@ -1,0 +1,4 @@
+<add name="DefaultConnection"
+         connectionString="Data Source=msk-dpro-dba171.x5.ru; Initial Catalog=TMB_ORGS;User id=denis.kondratev@x5.ru;Password=Zz12345678;"
+         providerName="System.Data.SqlClient" />
+  </connectionStrings>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769125</reqId><targetSystem>TMB</targetSystem><serviceInterface>DIVISION</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769125</reqId><targetSystem>TMB</targetSystem><serviceInterface>DIVISION</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">1347</MDM_ID><PORTAL_ID
+            xmlns="">1347</PORTAL_ID><DIVISION_SAP
+            xmlns="">CH</DIVISION_SAP><NAME
+            xmlns="">Центрально-Черноземный регион</NAME><MR_ID
+            xmlns=""/><NAMING xmlns="">CH Центрально-Черноземный регион</NAMING>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+

@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>54399</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>54399</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5477</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">81-Пятерочка_г.Санкт-Петербург, Товарищеский пр, 20 27</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">81-Пятерочка_г.Санкт-Петербург, Товарищеский пр, 20 27</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5485</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">94-Пятерочка_г.Санкт-Петербург, Коллонтай ул., 41</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">94-Пятерочка_г.Санкт-Петербург, Коллонтай ул., 41</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5504</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">128-Пятерочка_г.Санкт-Петербург, Ударников пр, 27</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">128-Пятерочка_г.Санкт-Петербург, Ударников пр, 27</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5516</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">148-Пятерочка_г.Санкт-Петербург, Дыбенко ул., 14</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">148-Пятерочка_г.Санкт-Петербург, Дыбенко ул., 14</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4386</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1345</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5521</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">153-Пятерочка_г.Санкт-Петербург, Российский пр, 10</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">153-Пятерочка_г.Санкт-Петербург, Российский пр, 10</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5522</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">154-Пятерочка_г.Санкт-Петербург, Искровский пр, 7</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">154-Пятерочка_г.Санкт-Петербург, Искровский пр, 7</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5528</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">162-Пятерочка_г.Всеволожск, Ленинградская ул., д. 38</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">162-Пятерочка_г.Всеволожск, Ленинградская ул., д. 38</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5530</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">164-Пятерочка_г.Санкт-Петербург, Российский пр, 15</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">164-Пятерочка_г.Санкт-Петербург, Российский пр, 15</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5534</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">175-Пятерочка_г.Санкт-Петербург, Ленская ул., 6</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">175-Пятерочка_г.Санкт-Петербург, Ленская ул., 6</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5536</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">184-Пятерочка_г.Санкт-Петербург, Наставников пр, 24</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">184-Пятерочка_г.Санкт-Петербург, Наставников пр, 24</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5541</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">192-Пятерочка_г.Санкт-Петербург, Наставников пр, 18</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">192-Пятерочка_г.Санкт-Петербург, Наставников пр, 18</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5554</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">699-Пятерочка_г.Санкт-Петербург, Рябовское ш., 101 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">699-Пятерочка_г.Санкт-Петербург, Рябовское ш., 101 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5559</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">304-Пятерочка_г.Санкт-Петербург, Индустриальный пр., 10</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">304-Пятерочка_г.Санкт-Петербург, Индустриальный пр., 10</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5577</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">323-Пятерочка_г.Санкт-Петербург, Индустриальный пр., 30 23</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">323-Пятерочка_г.Санкт-Петербург, Индустриальный пр., 30 23</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5588</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">337-Пятерочка_г.Санкт-Петербург, Пятилеток пр, 8</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">337-Пятерочка_г.Санкт-Петербург, Пятилеток пр, 8</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">CLS</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5606</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">358-Пятерочка_г.Санкт-Петербург, Коммуны ул., 50 корп.1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">358-Пятерочка_г.Санкт-Петербург, Коммуны ул., 50 корп.1</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5626</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">383-Пятерочка_г.Санкт-Петербург, Ворошилова ул., 3 1А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">383-Пятерочка_г.Санкт-Петербург, Ворошилова ул., 3 1А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5645</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">406-Пятерочка_г.Санкт-Петербург, Солидарности пр, 14 1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">406-Пятерочка_г.Санкт-Петербург, Солидарности пр, 14 1</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5677</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">407-Пятерочка_г.Санкт-Петербург, Наставников пр, 3</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">407-Пятерочка_г.Санкт-Петербург, Наставников пр, 3</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5680</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">413-Пятерочка_г.Всеволожск, Дорога Жизни ул., д. 11</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">413-Пятерочка_г.Всеволожск, Дорога Жизни ул., д. 11</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5683</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">422-Пятерочка_г.Санкт-Петербург, Наставников пр, 47</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">422-Пятерочка_г.Санкт-Петербург, Наставников пр, 47</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5724</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">924-Пятерочка_г.Приозерск, Бумажников ул., 11</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">924-Пятерочка_г.Приозерск, Бумажников ул., 11</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5731</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">933-Пятерочка_г.Санкт-Петербург, Индустриальный пр., 35</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">933-Пятерочка_г.Санкт-Петербург, Индустриальный пр., 35</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5989</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">680-Пятерочка_г.Санкт-Петербург, Хасанская ул., 10/1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">680-Пятерочка_г.Санкт-Петербург, Хасанская ул., 10/1</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ5991</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">682-Пятерочка_г.Санкт-Петербург, Товарищеский пр., 8/2 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">682-Пятерочка_г.Санкт-Петербург, Товарищеский пр., 8/2 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ6186</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">795-Пятерочка_гп.Рахья, Ленинградское ш., 23 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">795-Пятерочка_гп.Рахья, Ленинградское ш., 23 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ6329</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">621-Пятерочка_гп.Токсово, Привокзальная, 16 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">621-Пятерочка_гп.Токсово, Привокзальная, 16 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZ6390</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">931-Пятерочка_г.Всеволожск, Октябрьский пр-кт, 77</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">931-Пятерочка_г.Всеволожск, Октябрьский пр-кт, 77</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZI003</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">487-Пятерочка_гп.им.Свердлова, Западный пр-д, 4</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">487-Пятерочка_гп.им.Свердлова, Западный пр-д, 4</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZI014</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">2415-Пятерочка_пгт.Кузнечное, Новостроек ул., 1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">2415-Пятерочка_пгт.Кузнечное, Новостроек ул., 1</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13SZI045</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">280-Пятерочка_г.Санкт-Петербург, Коллонтай ул., 25 3</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">280-Пятерочка_г.Санкт-Петербург, Коллонтай ул., 25 3</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1001439</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">277-Пятерочка_г.Приозерск, Северопарковая ул., 1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">277-Пятерочка_г.Приозерск, Северопарковая ул., 1</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1006429</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">3122-Пятерочка_д.Лесколово, Зеленая ул., 42</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">3122-Пятерочка_д.Лесколово, Зеленая ул., 42</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX001091</MDM_ID><TYPE xmlns="">AD</TYPE><NAME
+            is_delta="True"
+            xmlns="">Администрация кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Администрация кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX001151</MDM_ID><TYPE xmlns="">SXC</TYPE><NAME
+            is_delta="True"
+            xmlns="">Общерозничный ЦФО кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Общерозничный ЦФО кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX001302</MDM_ID><TYPE xmlns="">AD</TYPE><NAME
+            is_delta="True"
+            xmlns="">Супервайзеры кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Супервайзеры кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX001362</MDM_ID><TYPE xmlns="">SR</TYPE><NAME
+            is_delta="True"
+            xmlns="">Эксплуатация кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Эксплуатация кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX001422</MDM_ID><TYPE xmlns="">SRH</TYPE><NAME
+            is_delta="True"
+            xmlns="">Отдел по персоналу кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Отдел по персоналу кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX001482</MDM_ID><TYPE xmlns="">AD</TYPE><NAME
+            is_delta="True"
+            xmlns="">Отдел по поиску кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Отдел по поиску кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX001542</MDM_ID><TYPE xmlns="">AD</TYPE><NAME
+            is_delta="True"
+            xmlns="">Отдел развития кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Отдел развития кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1008099</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">3695-Пятерочка_п.Сосново, Октябрьская ул., 4</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">3695-Пятерочка_п.Сосново, Октябрьская ул., 4</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1008574</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">4319-Пятерочка_г.Всеволожск, Александровская ул., 74 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">4319-Пятерочка_г.Всеволожск, Александровская ул., 74 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1008919</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7187-Пятерочка_гп.Кузьмоловский, Заозерная ул., 5</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7187-Пятерочка_гп.Кузьмоловский, Заозерная ул., 5</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1008926</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">4701-Пятерочка_г.Санкт-Петербург, Ворошилова ул., 31 к.4</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">4701-Пятерочка_г.Санкт-Петербург, Ворошилова ул., 31 к.4</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX002868</MDM_ID><TYPE xmlns="">SRS</TYPE><NAME
+            is_delta="True"
+            xmlns="">Сервисные подр.СБ кластера СЗД 02 СПБ-ЛО-Всеволожск</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Сервисные подр.СБ кластера СЗД 02 СПБ-ЛО-Всеволожск</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1010646</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">6757-Пятерочка_г.Санкт-Петербург, Коллонтай ул, 12 к.1,лит.А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">6757-Пятерочка_г.Санкт-Петербург, Коллонтай ул, 12 к.1,лит.А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1012113</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7445-Пятерочка_д.Кудрово, Центральная ул., уч.40</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7445-Пятерочка_д.Кудрово, Центральная ул., уч.40</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1012114</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">8099-Пятерочка_п.Петровское, Шоссейная ул., 22</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">8099-Пятерочка_п.Петровское, Шоссейная ул., 22</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4201</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1328</CURR_DIVISION><CURR_MR
+            xmlns="">MRDND</CURR_MR><FSTER_D
+            xmlns="">Кластер СЗД 02 СПБ-ЛО-Всеволожск</FSTER_D><FSTER xmlns="">D_SZ23</FSTER>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+

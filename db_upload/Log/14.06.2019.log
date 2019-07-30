@@ -1,0 +1,60 @@
+[14.06.2019 09:26:02.643] [System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader()] The data reader is incompatible with the specified 'MQXMLReaderEF.CFO'. A member of the type, 'TYPE', does not have a corresponding column in the data reader with the same name.
+[14.06.2019 09:26:37.213] [System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader()] The data reader is incompatible with the specified 'MQXMLReaderEF.CFO'. A member of the type, 'TYPE', does not have a corresponding column in the data reader with the same name.
+[14.06.2019 09:28:03.993] [System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader()] The data reader is incompatible with the specified 'MQXMLReaderEF.CFO'. A member of the type, 'TYPE', does not have a corresponding column in the data reader with the same name.
+[14.06.2019 09:28:26.970] [System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader()] The data reader is incompatible with the specified 'MQXMLReaderEF.CFO'. A member of the type, 'TYPE', does not have a corresponding column in the data reader with the same name.
+[14.06.2019 09:37:39.982] [System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader()] The data reader is incompatible with the specified 'MQXMLReaderEF.CFO'. A member of the type, 'MDM_ID', does not have a corresponding column in the data reader with the same name.
+[14.06.2019 09:39:22.057] [System.Data.SqlClient.SqlConnection.OnError()] Неправильный синтаксис около конструкции "*".
+[14.06.2019 09:39:50.947] [System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader()] The data reader is incompatible with the specified 'MQXMLReaderEF.CFO'. A member of the type, 'MDM_ID', does not have a corresponding column in the data reader with the same name.
+[14.06.2019 10:05:14.698] ReadXMLDir start ... 
+[14.06.2019 10:05:39.322]  CFO count:  8
+[14.06.2019 10:05:39.322]  CLUSTER count:  2
+[14.06.2019 10:05:39.322]  DIVISION count:  2
+[14.06.2019 11:44:12.581] Ncron Job init ... 
+[14.06.2019 11:49:23.050] Ncron Job init ... 
+[14.06.2019 11:50:00.114] Job start ... 
+[14.06.2019 11:51:00.027] Job start ... 
+[14.06.2019 12:06:31.096] Ncron Job init ... 
+[14.06.2019 12:08:00.188] ReadXMLDir error : Текущий поток должен быть задан как поток однопоточного контейнера (STA), чтобы вызовы OLE стали возможны. Проверьте, что ваша функция Main помечена атрибутом STAThreadAttribute. Данное исключение создается, только если к процессу подключен отладчик.
+[14.06.2019 12:10:00.042] ReadXMLDir error : Текущий поток должен быть задан как поток однопоточного контейнера (STA), чтобы вызовы OLE стали возможны. Проверьте, что ваша функция Main помечена атрибутом STAThreadAttribute. Данное исключение создается, только если к процессу подключен отладчик.
+[14.06.2019 12:13:57.047] Ncron Job init ... 
+[14.06.2019 12:14:00.060] ReadXMLDir error : Текущий поток должен быть задан как поток однопоточного контейнера (STA), чтобы вызовы OLE стали возможны. Проверьте, что ваша функция Main помечена атрибутом STAThreadAttribute. Данное исключение создается, только если к процессу подключен отладчик.
+[14.06.2019 12:59:19.443] Ncron Job init ... 
+[14.06.2019 13:00:00.027] ReadXMLDir error : Текущий поток должен быть задан как поток однопоточного контейнера (STA), чтобы вызовы OLE стали возможны. Проверьте, что ваша функция Main помечена атрибутом STAThreadAttribute. Данное исключение создается, только если к процессу подключен отладчик.
+[14.06.2019 13:01:31.571] ReadXMLDir start ... 
+[14.06.2019 13:01:33.622]  CFO count:  0
+[14.06.2019 13:01:33.622]  CLUSTER count:  0
+[14.06.2019 13:01:33.622]  DIVISION count:  0
+[14.06.2019 13:01:33.635] ReadXMLDir error : Ссылка на объект не указывает на экземпляр объекта.
+[14.06.2019 13:01:43.051] Ncron Job init ... 
+[14.06.2019 13:02:00.031] ReadXMLDir error : Текущий поток должен быть задан как поток однопоточного контейнера (STA), чтобы вызовы OLE стали возможны. Проверьте, что ваша функция Main помечена атрибутом STAThreadAttribute. Данное исключение создается, только если к процессу подключен отладчик.
+[14.06.2019 13:03:46.536] Ncron Job init ... 
+[14.06.2019 13:07:01.304] Ncron Job init ... 
+[14.06.2019 13:09:47.967] Ncron Job init ... 
+[14.06.2019 13:10:13.011]  CFO count:  8
+[14.06.2019 13:10:13.011]  CLUSTER count:  2
+[14.06.2019 13:10:13.011]  DIVISION count:  2
+[14.06.2019 13:10:13.015] File move done : OutDir_14.06.2019
+[14.06.2019 13:12:00.356]  CFO count:  16
+[14.06.2019 13:12:00.356]  CLUSTER count:  4
+[14.06.2019 13:12:00.363]  DIVISION count:  4
+[14.06.2019 13:12:00.364] File move done : OutDir_14.06.2019
+[14.06.2019 13:16:58.759] Ncron Job init ... 
+[14.06.2019 13:18:00.472]  CFO count:  8
+[14.06.2019 13:18:00.472]  CLUSTER count:  2
+[14.06.2019 13:18:00.472]  DIVISION count:  2
+[14.06.2019 13:18:00.475] File move done : OutDir_14.06.2019
+[14.06.2019 13:20:00.010]  CFO count:  0
+[14.06.2019 13:20:00.010]  CLUSTER count:  0
+[14.06.2019 13:20:00.010]  DIVISION count:  0
+[14.06.2019 13:20:00.010] File move done : OutDir_14.06.2019
+[14.06.2019 13:22:00.014]  CFO count:  0
+[14.06.2019 13:22:00.014]  CLUSTER count:  0
+[14.06.2019 13:22:00.014]  DIVISION count:  0
+[14.06.2019 13:22:00.015] File move done : OutDir_14.06.2019
+[14.06.2019 13:27:26.354] Ncron Job init ... 
+[14.06.2019 13:27:28.363] Ncron Job init ... 
+[14.06.2019 13:47:49.979] Ncron Job service init ... 
+[14.06.2019 13:50:00.444]  CFO count:  8
+[14.06.2019 13:50:00.445]  CLUSTER count:  2
+[14.06.2019 13:50:00.445]  DIVISION count:  2
+[14.06.2019 13:50:00.448] File move done : OutDir_14.06.2019

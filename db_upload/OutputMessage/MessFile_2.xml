@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769124</reqId><targetSystem>TMB</targetSystem><serviceInterface>CLUSTER</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769124</reqId><targetSystem>TMB</targetSystem><serviceInterface>CLUSTER</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">4229</MDM_ID><PORTAL_ID
+            xmlns="">4229</PORTAL_ID><CLASTER_SAP
+            xmlns="">D_CT33</CLASTER_SAP><NAME
+            xmlns="">Кластер ЦД 03 Москва</NAME><DIVISION_ID
+            xmlns="">1350</DIVISION_ID><MR_ID
+            xmlns="">MRD</MR_ID><NAMING xmlns="">D_CT33 Кластер ЦД 03 Москва</NAMING>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">4390</MDM_ID><PORTAL_ID
+            xmlns="">4390</PORTAL_ID><CLASTER_SAP
+            xmlns="">D_NC12</CLASTER_SAP><NAME
+            xmlns="">Кластер НЧД 10 Вязьма</NAME><DIVISION_ID
+            xmlns="">1320</DIVISION_ID><MR_ID
+            xmlns="">MRDCN</MR_ID><NAMING xmlns="">D_NC12 Кластер НЧД 10 Вязьма</NAMING>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+

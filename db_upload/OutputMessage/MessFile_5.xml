@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>53857</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>53857</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13CT5000</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True" xmlns="">Тест 3</NAME><DESCRIPTION
+            xmlns="">001 - г.Троицк, мкр. В, д. 42, "Дом торговли"</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4586</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1377</CURR_DIVISION><CURR_MR
+            xmlns="">MRDCT</CURR_MR><FSTER_D
+            xmlns="">Кластер ЮМД 01 Новая Москва</FSTER_D><FSTER xmlns="">D_ZD01</FSTER>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+

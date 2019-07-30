@@ -1,0 +1,21 @@
+[21.06.2019 13:45:42.696] ReadXMLDir start ... 
+[21.06.2019 13:55:40.389] Timer tic
+[21.06.2019 13:55:40.818] InsertCFO error : An error occurred while starting a transaction on the provider connection. See the inner exception for details.
+[21.06.2019 13:55:41.086] InsertCFO error : An error occurred while starting a transaction on the provider connection. See the inner exception for details.
+[21.06.2019 13:55:41.510] InsertCFO error : An error occurred while starting a transaction on the provider connection. See the inner exception for details.
+[21.06.2019 13:55:42.768] InsertCFO error : An error occurred while starting a transaction on the provider connection. See the inner exception for details.
+[21.06.2019 13:55:43.256] Download_CFO error : ExecuteReader требует, чтобы команда имела транзакцию, если подключение, назначенное команде, находится в отложенной локальной транзакции Свойство Transaction для команды не инициализировано.
+[21.06.2019 13:55:44.073] InsertCFO error : An error occurred while starting a transaction on the provider connection. See the inner exception for details.
+[21.06.2019 13:55:44.745] Download_CFO error : An error was reported while committing a database transaction but it could not be determined whether the transaction succeeded or failed on the database server. See the inner exception and http://go.microsoft.com/fwlink/?LinkId=313468 for more information.
+[21.06.2019 13:55:44.774]  GetMqData error : Коллекция была изменена; невозможно выполнить операцию перечисления.
+[21.06.2019 13:55:45.160] File move done : OutDir_21.06.2019
+[21.06.2019 13:57:07.238] Download_CFO error : An error occurred while updating the entries. See the inner exception for details.
+[21.06.2019 13:57:07.309] Download_CFO error : An error occurred while updating the entries. See the inner exception for details.
+[21.06.2019 13:57:07.372] Download_CFO error : An error occurred while updating the entries. See the inner exception for details.
+[21.06.2019 13:58:37.234] Download_CFO error : An error occurred while updating the entries. See the inner exception for details.
+[21.06.2019 13:58:37.293] Download_CFO error : An error occurred while updating the entries. See the inner exception for details.
+[21.06.2019 13:58:37.358] Download_CFO error : An error occurred while updating the entries. See the inner exception for details.
+[21.06.2019 13:58:43.889]  CFO count:  67657
+[21.06.2019 13:58:43.889]  CLUSTER count:  42
+[21.06.2019 13:58:43.890]  DIVISION count:  39
+[21.06.2019 13:58:43.896] ReadXMLDir error : Файл 'C:\WorkInln\MQXMLReaderEF\MQXMLReaderEF\MQXMLReaderEF\bin\Debug\OutputMessage\MessFile_0.xml' не найден.

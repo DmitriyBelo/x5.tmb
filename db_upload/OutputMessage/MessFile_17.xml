@@ -1,0 +1,2537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>54220</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>54220</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1013633</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9567 – Пятёрочка – с.Завьялово, Гольянская ул, 82</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9567 – Пятёрочка – с.Завьялово, Гольянская ул, 82</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1013795</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9601 – Пятёрочка – с.Алнаши, Ленина ул, 33</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9601 – Пятёрочка – с.Алнаши, Ленина ул, 33</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014026</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9760 – Пятёрочка – г.Ижевск, Ленинградская ул, 118А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9760 – Пятёрочка – г.Ижевск, Ленинградская ул, 118А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014098</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9790 – Пятёрочка – г.Ижевск, Пушкинская ул, 278</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9790 – Пятёрочка – г.Ижевск, Пушкинская ул, 278</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014680</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">10839 – Пятёрочка – п.Ува, Заводская ул, 5</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">10839 – Пятёрочка – п.Ува, Заводская ул, 5</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014747</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">10917 – Пятёрочка – п.Кизнер, Первомайская ул, 103</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">10917 – Пятёрочка – п.Кизнер, Первомайская ул, 103</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014912</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11108 – Пятёрочка – г.Ижевск, Пушкинская ул, 161</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11108 – Пятёрочка – г.Ижевск, Пушкинская ул, 161</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1015086</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11320 – Пятёрочка – г.Ижевск, Азина ул, 340</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11320 – Пятёрочка – г.Ижевск, Азина ул, 340</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1015337</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11579 – Пятёрочка – г.Ижевск, Пушкинская ул, 244</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11579 – Пятёрочка – г.Ижевск, Пушкинская ул, 244</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1015776</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11937 – Пятёрочка – г.Ижевск, Карла Маркса ул, 2</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11937 – Пятёрочка – г.Ижевск, Карла Маркса ул, 2</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1017702</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">12219 – Пятёрочка – с.Грахово, Советская ул, 15А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">12219 – Пятёрочка – с.Грахово, Советская ул, 15А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1017868</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">12320 – Пятёрочка – г.Ижевск, Пушкинская ул, 373</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">12320 – Пятёрочка – г.Ижевск, Пушкинская ул, 373</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EX023249</MDM_ID><TYPE xmlns="">AD</TYPE><NAME
+            is_delta="True"
+            xmlns="">Стажерский отдел ПВД 12 Удмуртия Юг</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Стажерский отдел ПВД 12 Удмуртия Юг</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1023422</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">13089 – Пятёрочка – с.Селты, Первомайская ул, 4</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">13089 – Пятёрочка – с.Селты, Первомайская ул, 4</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1015087</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11321 – Пятёрочка – с.Октябрьский43</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11321 – Пятёрочка – с.Октябрьский43</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1024151</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">13560 – Пятёрочка – г.Сарапул, Пугачева ул, 78</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">13560 – Пятёрочка – г.Сарапул, Пугачева ул, 78</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1024293</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">13627 – Пятёрочка – г.Ижевск, Орджоникидзе ул, 41А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">13627 – Пятёрочка – г.Ижевск, Орджоникидзе ул, 41А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1024399</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">13694 – Пятёрочка – г.Сарапул, Дачная 1-я ул, 19</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">13694 – Пятёрочка – г.Сарапул, Дачная 1-я ул, 19</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025180</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14365 – Пятёрочка – г.Ижевск, 30 лет Победы ул, 26</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14365 – Пятёрочка – г.Ижевск, 30 лет Победы ул, 26</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025195</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14378 – Пятёрочка – г.Ижевск, Героя России Ильфата Закирова ул, 1А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14378 – Пятёрочка – г.Ижевск, Героя России Ильфата Закирова ул, 1А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025306</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14441 – Пятёрочка – г.Ижевск, Клубная ул, 83Б</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14441 – Пятёрочка – г.Ижевск, Клубная ул, 83Б</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025334</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14471 – Пятёрочка – г.Ижевск, Клубная ул, 38</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14471 – Пятёрочка – г.Ижевск, Клубная ул, 38</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025337</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14477 – Пятёрочка – г.Ижевск, им 50-летия ВЛКСМ ул, 40</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14477 – Пятёрочка – г.Ижевск, им 50-летия ВЛКСМ ул, 40</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025338</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14478 – Пятёрочка – г.Ижевск, Пушкинская ул, 286</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14478 – Пятёрочка – г.Ижевск, Пушкинская ул, 286</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025339</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14479 – Пятёрочка – г.Ижевск, Гагарина ул, 5</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14479 – Пятёрочка – г.Ижевск, Гагарина ул, 5</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025586</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14596 – Пятёрочка – г.Ижевск, Майская ул, 19</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14596 – Пятёрочка – г.Ижевск, Майская ул, 19</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025692</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14639 – Пятёрочка – г.Ижевск, Воровского ул, 144</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14639 – Пятёрочка – г.Ижевск, Воровского ул, 144</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025715</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14659 – Пятёрочка – г.Ижевск, Школьная ул, 58 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14659 – Пятёрочка – г.Ижевск, Школьная ул, 58 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4184</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025842</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14715 – Пятёрочка – г.Ижевск, Ленина ул, 108 Б</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14715 – Пятёрочка – г.Ижевск, Ленина ул, 108 Б</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025843</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14716 – Пятёрочка – с.Вараксино</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14716 – Пятёрочка – с.Вараксино</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025850</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14724 – Пятёрочка – г.Можга, Фрунзе ул, 25</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14724 – Пятёрочка – г.Можга, Фрунзе ул, 25</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025851</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14725 – Пятёрочка – г.Ижевск, Тверская ул, 46</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14725 – Пятёрочка – г.Ижевск, Тверская ул, 46</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025852</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14726 – Пятёрочка – г.Можга, Базарная пл, 16</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14726 – Пятёрочка – г.Можга, Базарная пл, 16</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025853</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14727 – Пятёрочка – г.Ижевск, Коммунаров ул, 165</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14727 – Пятёрочка – г.Ижевск, Коммунаров ул, 165</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025854</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14728 – Пятёрочка – г.Можга, Устюжанина ул, 12 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14728 – Пятёрочка – г.Можга, Устюжанина ул, 12 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025855</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14729 – Пятёрочка – г.Ижевск, Динамовская ул, 83</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14729 – Пятёрочка – г.Ижевск, Динамовская ул, 83</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025856</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14730 – Пятёрочка – г.Ижевск, Карла Маркса ул, 126</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14730 – Пятёрочка – г.Ижевск, Карла Маркса ул, 126</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025857</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14731 – Пятёрочка – г.Ижевск, Кирова ул, 9</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14731 – Пятёрочка – г.Ижевск, Кирова ул, 9</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025858</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14732 – Пятёрочка – г.Ижевск, Клубная ул, 45</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14732 – Пятёрочка – г.Ижевск, Клубная ул, 45</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025859</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14733 – Пятёрочка – г.Ижевск, Заречное ш, 49</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14733 – Пятёрочка – г.Ижевск, Заречное ш, 49</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025860</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14734 – Пятёрочка – г.Ижевск, Восточная ул, 7</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14734 – Пятёрочка – г.Ижевск, Восточная ул, 7</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025868</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14743 – Пятёрочка – г.Ижевск, Нижняя ул, 40</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14743 – Пятёрочка – г.Ижевск, Нижняя ул, 40</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1025986</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">14860 – Пятёрочка – г.Ижевск, Гагарина ул, 45</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">14860 – Пятёрочка – г.Ижевск, Гагарина ул, 45</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026186</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15064 – Пятёрочка – г.Ижевск, Школьная ул, 1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15064 – Пятёрочка – г.Ижевск, Школьная ул, 1</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026187</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15065 – Пятёрочка – г.Ижевск, Областная ул, 20</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15065 – Пятёрочка – г.Ижевск, Областная ул, 20</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026194</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15070 – Пятёрочка – г.Ижевск, Клубная ул, 65</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15070 – Пятёрочка – г.Ижевск, Клубная ул, 65</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026195</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15071 – Пятёрочка – г.Ижевск, Клубная ул, 60</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15071 – Пятёрочка – г.Ижевск, Клубная ул, 60</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026196</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15072 – Пятёрочка – г.Ижевск, Азина ул, 288</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15072 – Пятёрочка – г.Ижевск, Азина ул, 288</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026431</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15253 – Пятёрочка – г.Ижевск, Пушкинская ул, 152</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15253 – Пятёрочка – г.Ижевск, Пушкинская ул, 152</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026445</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15261 – Пятёрочка – с.Малая Пурга, Советская ул, 50</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15261 – Пятёрочка – с.Малая Пурга, Советская ул, 50</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026480</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15292 – Пятёрочка – г.Камбарка, Первомайская ул, 68</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15292 – Пятёрочка – г.Камбарка, Первомайская ул, 68</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">EM_TA_43_T</MDM_ID><TYPE xmlns="">TCL</TYPE><NAME
+            xmlns="">Кластер ПВД 12 Удмуртия Юг T</NAME><DESCRIPTION
+            xmlns="">Кластер ПВД 12 Удмуртия Юг T</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1026850</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">15551 – Пятёрочка – г.Ижевск, Машиностроителей городок, 101А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15551 – Пятёрочка – г.Ижевск, Машиностроителей городок, 101А</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns=""/><CURR_DIVISION xmlns=""/><CURR_MR
+            xmlns=""/><FSTER_D
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">E1027216</MDM_ID><TYPE
+            is_delta="True" xmlns="">S</TYPE><NAME is_delta="True"
+            xmlns="">15843 – Пятёрочка – г.Ижевск, Коммунаров ул, 315</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15843 – Пятёрочка – г.Ижевск, Коммунаров ул, 315</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027646</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027646</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027646</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027647</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027647</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027647</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027648</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027648</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027648</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027649</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027649</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027649</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027650</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027650</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027650</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027651</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027651</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027651</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027652</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027652</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027652</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027653</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027653</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027653</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027654</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027654</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027654</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027655</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027655</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027655</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027656</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027656</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027656</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027657</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027657</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027657</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027658</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027658</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027658</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027659</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027659</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027659</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027660</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027660</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027660</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027661</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027661</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027661</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EF027662</MDM_ID><TYPE
+            is_delta="True" xmlns="">FS</TYPE><NAME is_delta="True"
+            xmlns="">Прогнозный магазин EF027662</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Прогнозный магазин EF027662</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028074</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028074</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028074</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028075</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028075</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028075</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028076</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028076</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028076</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028077</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028077</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028077</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028078</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028078</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028078</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028079</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028079</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028079</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028080</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028080</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028080</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028081</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028081</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028081</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028082</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028082</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028082</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028083</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028083</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028083</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028084</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028084</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028084</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028085</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028085</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028085</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028086</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028086</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028086</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028087</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028087</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028087</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028088</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028088</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028088</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028089</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028089</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028089</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028090</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028090</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028090</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028091</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028091</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028091</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028092</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028092</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028092</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028093</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028093</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028093</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028094</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028094</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028094</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028095</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028095</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028095</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028096</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028096</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028096</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028097</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028097</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028097</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028098</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028098</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028098</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028099</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028099</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028099</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028100</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028100</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028100</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028101</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028101</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028101</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028102</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028102</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028102</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028103</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028103</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028103</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028104</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028104</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028104</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028105</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028105</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028105</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EN028106</MDM_ID><TYPE
+            is_delta="True" xmlns="">NS</TYPE><NAME is_delta="True"
+            xmlns="">Новый магазин EN028106</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">Новый магазин EN028106</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">PLN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">PLN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">E1028701</MDM_ID><TYPE
+            is_delta="True" xmlns="">S</TYPE><NAME is_delta="True"
+            xmlns="">15987 – Пятёрочка – с.Сюмси, Советская ул, 42/44</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">15987 – Пятёрочка – с.Сюмси, Советская ул, 42/44</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">E1029487</MDM_ID><TYPE
+            is_delta="True" xmlns="">S</TYPE><NAME is_delta="True"
+            xmlns="">16277 – Пятёрочка – г.Ижевск, 8-ая Подлесная ул, 48</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">16277 – Пятёрочка – г.Ижевск, 8-ая Подлесная ул, 48</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">E1029758</MDM_ID><TYPE
+            is_delta="True" xmlns="">S</TYPE><NAME is_delta="True"
+            xmlns="">16518 – Пятёрочка – п.Ува, Механизаторов ул, 15</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">16518 – Пятёрочка – п.Ува, Механизаторов ул, 15</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">E1029849</MDM_ID><TYPE
+            is_delta="True" xmlns="">S</TYPE><NAME is_delta="True"
+            xmlns="">16597 – Пятёрочка – с.Вавож, Советская ул, 41</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">16597 – Пятёрочка – с.Вавож, Советская ул, 41</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">E1029850</MDM_ID><TYPE
+            is_delta="True" xmlns="">S</TYPE><NAME is_delta="True"
+            xmlns="">16598 – Пятёрочка – г.Агрыз, Горького ул, 2Б</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">16598 – Пятёрочка – г.Агрыз, Горького ул, 2Б</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">OPN</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">E1030812</MDM_ID><TYPE
+            is_delta="True" xmlns="">S</TYPE><NAME is_delta="True"
+            xmlns="">17373, Ижевск, 7км Якшур-Бодьинского тракта,5</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">17373, Ижевск, 7км Якшур-Бодьинского тракта,5</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">TEO</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">TEO</STATUS_ACT><CURR_CLUSTER
+            is_delta="True" xmlns=""/><CURR_DIVISION is_delta="True"
+            xmlns=""/><CURR_MR is_delta="True" xmlns=""/><FSTER_D
+            is_delta="True"
+            xmlns="">Кластер ПВД 12 Удмуртия Юг</FSTER_D><FSTER
+            is_delta="True" xmlns="">D_TA43</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1004202</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1879 – Пятёрочка – г.Воткинск, Ленина ул., 17</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1879 – Пятёрочка – г.Воткинск, Ленина ул., 17</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1004203</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1857 – Пятёрочка – г.Ижевск, Удмуртская ул., 210</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1857 – Пятёрочка – г.Ижевск, Удмуртская ул., 210</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1004210</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">2288 – Пятёрочка – г.Сарапул, Дубровская ул., 61</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">2288 – Пятёрочка – г.Сарапул, Дубровская ул., 61</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1004226</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">2727 – Пятёрочка – г.Ижевск, Воткинское шоссе, 74</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">2727 – Пятёрочка – г.Ижевск, Воткинское шоссе, 74</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1005876</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">2728 – Пятёрочка – п.Игра, Нефтянников мкр, 30А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">2728 – Пятёрочка – п.Игра, Нефтянников мкр, 30А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1005895</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">3135 – Пятёрочка – г.Ижевск, Дзержинского ул., 60</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">3135 – Пятёрочка – г.Ижевск, Дзержинского ул., 60</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13TA7583</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1512 – Пятёрочка – г.Ижевск, Сабурова ул., 21 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1512 – Пятёрочка – г.Ижевск, Сабурова ул., 21 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13TA7741</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1649 – Пятёрочка – г.Ижевск, Татьяны Барамзиной ул., 6</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1649 – Пятёрочка – г.Ижевск, Татьяны Барамзиной ул., 6</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13TA7753</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1645 – Пятёрочка – г.Воткинск, Ленинградская ул., 2</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1645 – Пятёрочка – г.Воткинск, Ленинградская ул., 2</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13TA7754</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1644 – Пятёрочка – г.Воткинск, 1905 года ул., 22</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1644 – Пятёрочка – г.Воткинск, 1905 года ул., 22</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">13TA7755</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1663 – Пятёрочка – г.Ижевск, Удмуртская ул., 253</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1663 – Пятёрочка – г.Ижевск, Удмуртская ул., 253</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1002706</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">1799 – Пятёрочка – г.Ижевск, Авангардная ул, 6А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">1799 – Пятёрочка – г.Ижевск, Авангардная ул, 6А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1006444</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">3521 – Пятёрочка – п.Балезино, Льва Толстого ул., 12 В</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">3521 – Пятёрочка – п.Балезино, Льва Толстого ул., 12 В</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1006445</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">3522 – Пятёрочка – г.Глазов, Ленина ул, 21</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">3522 – Пятёрочка – г.Глазов, Ленина ул, 21</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1006449</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">4630 – Пятёрочка – с.Якшур-Бодья, Пушиной ул., 131</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">4630 – Пятёрочка – с.Якшур-Бодья, Пушиной ул., 131</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1007270</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">3833 – Пятёрочка – г.Воткинск, Школьная ул, 1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">3833 – Пятёрочка – г.Воткинск, Школьная ул, 1</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1007271</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">3863 – Пятёрочка – с.Дебесы, Советская ул., 83 А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">3863 – Пятёрочка – с.Дебесы, Советская ул., 83 А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1007275</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5254 – Пятёрочка – п.Балезино, Суворова ул., 39</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5254 – Пятёрочка – п.Балезино, Суворова ул., 39</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1007277</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">4308 – Пятёрочка – г.Глазов, Т.Барамзиной ул., 19</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">4308 – Пятёрочка – г.Глазов, Т.Барамзиной ул., 19</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1007278</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">4243 – Пятёрочка – г.Воткинск, Пролетарская ул., 31Г</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">4243 – Пятёрочка – г.Воткинск, Пролетарская ул., 31Г</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1007283</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">4542 – Пятёрочка – г.Глазов, Буденного ул., 8</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">4542 – Пятёрочка – г.Глазов, Буденного ул., 8</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1007766</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7204 – Пятёрочка – п.Игра, Матросова ул., 46</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7204 – Пятёрочка – п.Игра, Матросова ул., 46</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009148</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7685 – Пятёрочка – д.Хохряки, Тепличная ул., 32</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7685 – Пятёрочка – д.Хохряки, Тепличная ул., 32</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009149</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5037 – Пятёрочка – г.Ижевск, 9 Января ул., 223</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5037 – Пятёрочка – г.Ижевск, 9 Января ул., 223</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">CLS</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009151</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7298 – Пятёрочка – с.Красногорское, Ленина ул., 84</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7298 – Пятёрочка – с.Красногорское, Ленина ул., 84</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009152</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5161 – Пятёрочка – г.Воткинск, Волгорградская ул., 20</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5161 – Пятёрочка – г.Воткинск, Волгорградская ул., 20</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009153</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5343 – Пятёрочка – п.Новый, Центральная ул., 3</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5343 – Пятёрочка – п.Новый, Центральная ул., 3</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009155</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5474 – Пятёрочка – г.Ижевск, Труда ул., 60</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5474 – Пятёрочка – г.Ижевск, Труда ул., 60</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009156</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5573 – Пятёрочка – г.Ижевск, Молодежная ул., 46</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5573 – Пятёрочка – г.Ижевск, Молодежная ул., 46</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009157</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5689 – Пятёрочка – п.Яр, Советская ул., 51</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5689 – Пятёрочка – п.Яр, Советская ул., 51</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009159</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">6092 – Пятёрочка – г.Ижевск, им.Петрова ул, 36</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">6092 – Пятёрочка – г.Ижевск, им.Петрова ул, 36</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009162</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">6148 – Пятёрочка – г.Ижевск, Молодежная ул., 96</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">6148 – Пятёрочка – г.Ижевск, Молодежная ул., 96</DESCRIPTION><STATUS
+            is_delta="True" xmlns="">CLS</STATUS><STATUS_ACT
+            is_delta="True" xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009163</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5926 – Пятёрочка – п.Игра, Советская ул., 41</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5926 – Пятёрочка – п.Игра, Советская ул., 41</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009164</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">5885 – Пятёрочка – с.Шаркан, Ленина ул., 23</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">5885 – Пятёрочка – с.Шаркан, Ленина ул., 23</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009166</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">6580 – Пятёрочка – г.Воткинск, Энгельса ул., 31</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">6580 – Пятёрочка – г.Воткинск, Энгельса ул., 31</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1009565</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">4709 – Пятёрочка – п.Кез, Советская ул., 1 З</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">4709 – Пятёрочка – п.Кез, Советская ул., 1 З</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1010588</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">6686 – Пятёрочка – г.Ижевск, Буммашевская ул., 92В</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">6686 – Пятёрочка – г.Ижевск, Буммашевская ул., 92В</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1011413</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7971 – Пятёрочка – г.Глазов, Первомайская ул., 28А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7971 – Пятёрочка – г.Глазов, Первомайская ул., 28А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1011414</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7972 – Пятёрочка – г.Воткинск, Пролетарская ул., 19</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7972 – Пятёрочка – г.Воткинск, Пролетарская ул., 19</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1011415</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7973 – Пятёрочка – г.Воткинск, Азина ул., 14</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7973 – Пятёрочка – г.Воткинск, Азина ул., 14</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1011416</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7974 – Пятёрочка – г.Воткинск, Кирова ул., 58</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7974 – Пятёрочка – г.Воткинск, Кирова ул., 58</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1011417</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7975 – Пятёрочка – г.Воткинск, Садовникова ул., 1А</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7975 – Пятёрочка – г.Воткинск, Садовникова ул., 1А</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1011418</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7976 – Пятёрочка – г.Воткинск, 1 мая ул., 6</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7976 – Пятёрочка – г.Воткинск, 1 мая ул., 6</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1012021</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">7436 – Пятёрочка – г.Ижевск, Удмуртская ул., 304</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">7436 – Пятёрочка – г.Ижевск, Удмуртская ул., 304</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1012739</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">8490 – Пятёрочка – г.Глазов, Сибирская ул, 20</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">8490 – Пятёрочка – г.Глазов, Сибирская ул, 20</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1012796</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">8644 – Пятёрочка – г.Воткинск, Колхозная ул, 46</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">8644 – Пятёрочка – г.Воткинск, Колхозная ул, 46</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1012797</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">8647 – Пятёрочка – г.Воткинск, Ленинградская ул, 20</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">8647 – Пятёрочка – г.Воткинск, Ленинградская ул, 20</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1013035</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9182 – Пятёрочка – г.Воткинск, Курчатова ул, 5</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9182 – Пятёрочка – г.Воткинск, Курчатова ул, 5</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1013042</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9181 – Пятёрочка – г.Глазов, Буденного ул, 1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9181 – Пятёрочка – г.Глазов, Буденного ул, 1</DESCRIPTION><STATUS
+            xmlns="">CLS</STATUS><STATUS_ACT
+            xmlns="">CLS</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1013355</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9341 – Пятёрочка – г.Воткинск, Зверева ул, 8</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9341 – Пятёрочка – г.Воткинск, Зверева ул, 8</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1013410</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9393 – Пятёрочка – г.Глазов, Калинина ул, 6</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9393 – Пятёрочка – г.Глазов, Калинина ул, 6</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1013441</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9415 – Пятёрочка – г.Ижевск, Сельская ул, 3</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9415 – Пятёрочка – г.Ижевск, Сельская ул, 3</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014025</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9759 – Пятёрочка – г.Ижевск, Воткинское ш, 39</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9759 – Пятёрочка – г.Ижевск, Воткинское ш, 39</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014097</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">9789 – Пятёрочка – п.Игра, Советская ул, 113</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">9789 – Пятёрочка – п.Игра, Советская ул, 113</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1014899</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11099 – Пятёрочка – г.Глазов, Тани Барамзиной ул, 57 стр.1</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11099 – Пятёрочка – г.Глазов, Тани Барамзиной ул, 57 стр.1</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1015455</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11679 – Пятёрочка – г.Ижевск, Союзная ул, 107</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11679 – Пятёрочка – г.Ижевск, Союзная ул, 107</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1015456</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            is_delta="True"
+            xmlns="">11680 – Пятёрочка – г.Ижевск, Красногеройская ул, 89</NAME><DESCRIPTION
+            is_delta="True"
+            xmlns="">11680 – Пятёрочка – г.Ижевск, Красногеройская ул, 89</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4448</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1322</CURR_DIVISION><CURR_MR
+            xmlns="">MRDVO</CURR_MR><FSTER_D
+            xmlns="">Кластер ПВД 13 Удмуртия Север</FSTER_D><FSTER xmlns="">D_TA44</FSTER>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+

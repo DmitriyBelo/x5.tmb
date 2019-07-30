@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769123</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769123</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1023517</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            xmlns="">13130_Пятерочка_Сочи, Лесная , 10</NAME><DESCRIPTION
+            xmlns="">13130_Пятерочка_Сочи, Лесная , 10</DESCRIPTION><STATUS
+            xmlns="">TEO</STATUS><STATUS_ACT
+            xmlns="">TEO</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4517</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1375</CURR_DIVISION><CURR_MR
+            xmlns="">MRDUG</CURR_MR><FSTER_D
+            xmlns="">Кластер СКД 04 Краснодар Черное море</FSTER_D><FSTER xmlns="">D_ZA02</FSTER>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">E1029566</MDM_ID><TYPE xmlns="">S</TYPE><NAME
+            xmlns="">15740_Пятерочка_Озинки, Лесная,1 з</NAME><DESCRIPTION
+            xmlns="">15740_Пятерочка_Озинки, Лесная,1 з</DESCRIPTION><STATUS
+            xmlns="">OPN</STATUS><STATUS_ACT
+            xmlns="">OPN</STATUS_ACT><CURR_CLUSTER
+            xmlns="">4490</CURR_CLUSTER><CURR_DIVISION
+            xmlns="">1362</CURR_DIVISION><CURR_MR
+            xmlns="">MRDUG</CURR_MR><FSTER_D
+            xmlns="">Кластер ЮД 08 Саратов Центр</FSTER_D><FSTER xmlns="">D_UG22</FSTER>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+

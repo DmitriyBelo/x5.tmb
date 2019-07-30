@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>54009</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>54009</reqId><targetSystem>TMB</targetSystem><serviceInterface>CFO</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EZD БЕ Импорт</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">X5RG</NAME><DESCRIPTION is_delta="True"
+            xmlns="">129457000</DESCRIPTION><STATUS is_delta="True"
+            xmlns=""/><STATUS_ACT is_delta="True"
+            xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX030128 ДЦ БЕ СПб</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZD_02</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX028813 ТЗ_ТС К</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZD_03</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX028814 ТЗ_ТС 5</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZD_03</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX028815 ТЗ_ТС Х</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZD_03</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX028816 ТЗ_Бананы</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZD_03</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EZE БЕ X5 ОМНИ</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">X5RG</NAME><DESCRIPTION is_delta="True"
+            xmlns="">129457000</DESCRIPTION><STATUS is_delta="True"
+            xmlns=""/><STATUS_ACT is_delta="True"
+            xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX031236 ОМНИ РЦ ЗТЛ</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZE_LOG</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EZE_IT ОМНИ IT</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZE</NAME><DESCRIPTION is_delta="True"
+            xmlns="">129457000</DESCRIPTION><STATUS is_delta="True"
+            xmlns=""/><STATUS_ACT is_delta="True"
+            xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX027342 ОМНИ Qiwi</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZE_LOCK</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX027343 ОМНИ OZON</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZE_LOCK</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX027344 ОМНИ Protek</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZE_LOCK</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">EX026140 Х5 ОМНИ</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">EZE</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_CB_03 Тульский</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_CB_04 Тверской</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_CS_08 Green 1</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_CE_08 Green 2</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ST_03 Пенза</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ST_05 Саратов</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_02 Казань</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_06 Уфа</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_CP_04 Тульский</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_CP_05 Тверской</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_07 Пермь</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_08 Тюмень</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_09 Уфа</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_10 Оренбург</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_11 Самара 1</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_12 Самара 2</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_13 Тольятти</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ET_14 Cургут</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ST_01 Воронеж</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ST_08 Саратов</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ST_10 Липецк</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ST_11 Белгород</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_ST_12 Сочи</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_NE_06 Казань 1</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item>
+<Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            is_delta="True" xmlns="">HF_EN_NE_07 Казань 2</MDM_ID><TYPE
+            is_delta="True" xmlns=""/><NAME is_delta="True"
+            xmlns="">TBD</NAME><DESCRIPTION is_delta="True"
+            xmlns=""/><STATUS is_delta="True" xmlns=""/><STATUS_ACT
+            is_delta="True" xmlns=""/><CURR_CLUSTER is_delta="True"
+            xmlns=""/><CURR_DIVISION is_delta="True" xmlns=""/><CURR_MR
+            is_delta="True" xmlns=""/><FSTER_D is_delta="True"
+            xmlns=""/><FSTER is_delta="True" xmlns=""/>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+

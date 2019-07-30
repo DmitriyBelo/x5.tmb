@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769133</reqId><targetSystem>TMB</targetSystem><serviceInterface>CLUSTER</serviceInterface><interfaceNamespace/></messageHeader><messageContainer><Container><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<ns0:mt_queryRequest
+        xmlns:ns0="http://x5.ru/mdm/common"><messageHeader><reqId>1769133</reqId><targetSystem>TMB</targetSystem><serviceInterface>CLUSTER</serviceInterface><interfaceNamespace/></messageHeader><Item
+            xmlns="http://www.ibm.com/mdm/entry01"><MDM_ID
+            xmlns="">4512</MDM_ID><PORTAL_ID
+            xmlns="">4512</PORTAL_ID><CLASTER_SAP
+            xmlns="">D_VO52</CLASTER_SAP><NAME
+            xmlns="">Кластер ВД 10 Оренбург Север</NAME><DIVISION_ID
+            xmlns="">1308</DIVISION_ID><MR_ID
+            xmlns="">MRDVO</MR_ID><NAMING xmlns="">D_VO52 Кластер ВД 10 Оренбург Север</NAMING>
+		
+	</Item></ns0:mt_queryRequest>
+]]></Container></messageContainer></ns0:mt_queryRequest>
+
